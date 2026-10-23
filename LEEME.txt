@@ -1,0 +1,15 @@
+COSECHA ETERNA · DOFUS TOUCH — VERSIÓN MÓVIL
+
+Esta carpeta contiene una PWA (web instalable) preparada para móviles.
+
+IMPORTANTE: para instalarla como app en iPhone/iPad o Android, los archivos deben estar publicados en una URL HTTPS. Abrir el HTML directamente desde Archivos no permite instalarla como PWA.
+
+PUBLICAR FÁCILMENTE:
+1. Descomprime el ZIP en un computador.
+2. Sube el contenido completo de esta carpeta a un servicio de hosting estático HTTPS (por ejemplo, Netlify Drop o GitHub Pages).
+3. Abre la URL HTTPS publicada en Safari (iPhone) o Chrome (Android).
+4. iPhone: botón Compartir > Añadir a pantalla de inicio.
+   Android: menú del navegador > Instalar aplicación / Añadir a pantalla de inicio.
+
+El seguimiento se guarda en el almacenamiento local del navegador/dispositivo. No se sincroniza automáticamente entre dispositivos. Exporta tu progreso periódicamente como respaldo.
+La importación de Excel usa SheetJS desde CDN y requiere conexión a internet al cargar esa biblioteca por primera vez.
