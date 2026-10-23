@@ -1,6 +1,6 @@
 COSECHA ETERNA · DOFUS TOUCH — VERSIÓN MÓVIL
 
-Esta carpeta contiene una PWA (web instalable), versión 3 con cantidad por archi y filtro Repetidos. preparada para móviles.
+Esta carpeta contiene una PWA (web instalable), versión 5 con botones SÍ/NO, cantidad por archi, filtro Repetidos y Reset total. preparada para móviles.
 
 IMPORTANTE: para instalarla como app en iPhone/iPad o Android, los archivos deben estar publicados en una URL HTTPS. Abrir el HTML directamente desde Archivos no permite instalarla como PWA.
 
